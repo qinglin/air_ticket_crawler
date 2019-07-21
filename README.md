@@ -19,9 +19,9 @@
         2. Get Authorization code of your mail address
         3. Set qq mail configuration 
            host_server = 'smtp.qq.com'
-           #用户名
+           # Username
            mail_user="qq mail address"
-           # 授权码
+           # Authorization Code
            mail_pass = "authorization code"
 
         
